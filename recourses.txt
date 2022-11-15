@@ -1,0 +1,2 @@
+https://magenta.tensorflow.org/gansynth
+https://towardsdatascience.com/bachgan-using-gans-to-generate-original-baroque-music-10c521d39e52
