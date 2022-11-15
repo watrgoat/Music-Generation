@@ -1,6 +1,7 @@
 # examples
 https://magenta.tensorflow.org/gansynth
 https://towardsdatascience.com/bachgan-using-gans-to-generate-original-baroque-music-10c521d39e52
+https://openai.com/blog/musenet/
 
 # datasets
 https://www.classicalarchives.com/newca/#!/
